@@ -8,5 +8,5 @@ App para ensinar alunos a criar histórias e realizar planning
   - Criar um evento no botão (click) para criar um html dentro da div principal. (pesquisar appendChild de exemplo)
 -   [ ] O usuário poderá excluir um todo.
   - Destruir um elemento no dom de acordo com o click no botão (pode ser x ou texto). 
--   [ ] O usuário poderá editar um todo.
+-   [ ] O usuário poderá concluir um todo.
   - Editar um elemento no dom de acordo com o click no botão (pode ser texto).
